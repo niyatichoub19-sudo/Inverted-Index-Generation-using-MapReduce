@@ -1,0 +1,15 @@
+Data professionals, analysts, scientists and statisticians prepare and process data in a data lakehouse, which combines the performance of a data warehouse with the flexibility of a data lake to clean data and ensure its quality. The process of turning raw data into valuable insights encompasses several key stages:
+
+    Collect data: The first step involves gathering data, which can be a mix of structured and unstructured forms from myriad sources like cloud, mobile applications and IoT sensors. This step is where organizations adapt their data collection strategies and integrate data from varied sources into central repositories like a data lake, which can automatically assign metadata for better manageability and accessibility.
+
+    Process data: After being collected, data must be systematically organized, extracted, transformed and then loaded into a storage system to ensure accurate analytical outcomes. Processing involves converting raw data into a format that is usable for analysis, which might involve aggregating data from different sources, converting data types or organizing data into structure formats. Given the exponential growth of available data, this stage can be challenging. Processing strategies may vary between batch processing, which handles large data volumes over extended periods and stream processing, which deals with smaller real-time data batches.
+
+    Clean data: Regardless of size, data must be cleaned to ensure quality and relevance. Cleaning data involves formatting it correctly, removing duplicates and eliminating irrelevant entries. Clean data prevents the corruption of output and safeguard’s reliability and accuracy.
+
+    Analyze data: Advanced analytics, such as data mining, predictive analytics, machine learning and deep learning, are employed to sift through the processed and cleaned data. These methods allow users to discover patterns, relationships and trends within the data, providing a solid foundation for informed decision-making.
+
+Under the Analyze umbrella, there are potentially many technologies at work, including data mining, which is used to identify patterns and relationships within large data sets; predictive analytics, which forecasts future trends and opportunities; and deep learning, which mimics human learning patterns to uncover more abstract ideas.
+
+Deep learning uses an artificial neural network with multiple layers to model complex patterns in data. Unlike traditional machine learning algorithms, deep learning learns from images, sound and text without manual help. For big data analytics, this powerful capability means the volume and complexity of data is not an issue.
+
+Natural language processing (NLP) models allow machines to understand, interpret and generate human language. Within big data analytics, NLP extracts insights from massive unstructured text data generated across an organization and beyond.

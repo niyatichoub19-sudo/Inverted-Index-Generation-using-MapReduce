@@ -1,0 +1,15 @@
+
+
+Big data analytics refers to the systematic processing and analysis of large amounts of data and complex data sets, known as big data, to extract valuable insights.
+
+Big data analytics allows for the uncovering of trends, patterns and correlations in large amounts of raw data to help analysts make data-informed decisions. This process allows organizations to leverage the exponentially growing data generated from diverse sources, including internet-of-things (IoT) sensors, social media, financial transactions and smart devices to derive actionable intelligence through advanced analytic techniques.
+
+In the early 2000s, advances in software and hardware capabilities made it possible for organizations to collect and handle large amounts of unstructured data. With this explosion of useful data, open-source communities developed big data frameworks to store and process this data. These frameworks are used for distributed storage and processing of large data sets across a network of computers. Along with additional tools and libraries, big data frameworks can be used for:
+
+    Predictive modeling by incorporating artificial intelligence (AI) and statistical algorithms
+    Statistical analysis for in-depth data exploration and to uncover hidden patterns
+    What-if analysis to simulate different scenarios and explore potential outcomes
+    Processing diverse data sets, including structured, semi-structured and unstructured data from various sources.
+
+Four main data analysis methods: descriptive, diagnostic, predictive and prescriptive are used to uncover insights and patterns within an organization's data. These methods facilitate a deeper understanding of market trends, customer preferences and other important business metrics.
+
